@@ -44,3 +44,36 @@ h3{
     padding-left: 30px;
     padding-right: 30px;
 }
+.recipes-corner{
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+.recipes2{
+    width: 100%;
+    padding-top: 4%; 
+}
+#social{
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+}
+.footer-fream{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 25px;
+}
+.text{
+    color: white;
+}
