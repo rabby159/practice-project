@@ -1,0 +1,31 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.color{
+    color: blueviolet;
+}
+h1{
+    font-size: 45px;
+}
+.container{
+    display: flex;
+    margin-bottom: 70px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 7%;
+    padding-right: 6%;
+}
+.half-width img{
+    width: 90%;
+}
+.link-button{
+        color: white;
+        font-weight: 700;
+        background-image: linear-gradient(rgb(140, 47, 226),rgb(194, 142, 243));
+        padding: 10px 20px;
+        border-radius: 5px;
+}
+.font{
+    font-size: 20px;
+}
